@@ -1,0 +1,50 @@
+c:\users\asus\documents\visual studio 2015\Projects\Modul 9 Quiz\Modul 9 Quiz\bin\Debug\Modul 9 Quiz.exe.config
+C:\Users\ahkgeera\Pictures\VB Punya Susy\Modul 9 Quiz\Modul 9 Quiz\bin\Debug\Modul 9 Quiz.exe.config
+C:\Users\ahkgeera\Pictures\VB Punya Susy\Modul 9 Quiz\Modul 9 Quiz\obj\Debug\Modul 9 Quiz.vbprojResolveAssemblyReference.cache
+C:\Users\ahkgeera\Pictures\VB Punya Susy\Modul 9 Quiz\Modul 9 Quiz\obj\Debug\Modul_9_Quiz.datagridview.resources
+C:\Users\ahkgeera\Pictures\VB Punya Susy\Modul 9 Quiz\Modul 9 Quiz\obj\Debug\Modul_9_Quiz.Form1.resources
+C:\Users\ahkgeera\Pictures\VB Punya Susy\Modul 9 Quiz\Modul 9 Quiz\obj\Debug\Modul_9_Quiz.Form10.resources
+C:\Users\ahkgeera\Pictures\VB Punya Susy\Modul 9 Quiz\Modul 9 Quiz\obj\Debug\Modul_9_Quiz.Form3.resources
+C:\Users\ahkgeera\Pictures\VB Punya Susy\Modul 9 Quiz\Modul 9 Quiz\obj\Debug\Modul_9_Quiz.form4.resources
+C:\Users\ahkgeera\Pictures\VB Punya Susy\Modul 9 Quiz\Modul 9 Quiz\obj\Debug\Modul_9_Quiz.Form2.resources
+C:\Users\ahkgeera\Pictures\VB Punya Susy\Modul 9 Quiz\Modul 9 Quiz\obj\Debug\Modul_9_Quiz.Form9.resources
+C:\Users\ahkgeera\Pictures\VB Punya Susy\Modul 9 Quiz\Modul 9 Quiz\obj\Debug\Modul_9_Quiz.Resources.resources
+C:\Users\ahkgeera\Pictures\VB Punya Susy\Modul 9 Quiz\Modul 9 Quiz\obj\Debug\Modul_9_Quiz.Tugas_3.resources
+C:\Users\ahkgeera\Pictures\VB Punya Susy\Modul 9 Quiz\Modul 9 Quiz\obj\Debug\Modul 9 Quiz.vbproj.GenerateResource.Cache
+C:\Users\ahkgeera\Pictures\VB Punya Susy\Modul 9 Quiz\Modul 9 Quiz\obj\Debug\Modul 9 Quiz.xml
+C:\Users\ahkgeera\Pictures\VB Punya Susy\Modul 9 Quiz\Modul 9 Quiz\bin\Debug\Modul 9 Quiz.exe
+C:\Users\ahkgeera\Pictures\VB Punya Susy\Modul 9 Quiz\Modul 9 Quiz\bin\Debug\Modul 9 Quiz.pdb
+C:\Users\ahkgeera\Pictures\VB Punya Susy\Modul 9 Quiz\Modul 9 Quiz\bin\Debug\Modul 9 Quiz.xml
+C:\Users\ahkgeera\Pictures\VB Punya Susy\Modul 9 Quiz\Modul 9 Quiz\obj\Debug\Modul 9 Quiz.exe
+C:\Users\ahkgeera\Pictures\VB Punya Susy\Modul 9 Quiz\Modul 9 Quiz\obj\Debug\Modul 9 Quiz.pdb
+C:\Users\ahkgeera\Pictures\VB Punya Susy\Modul 9 Quiz\Modul 9 Quiz\obj\Debug\Modul_9_Quiz.form6.resources
+C:\Users\ahkgeera\Pictures\VB Punya Susy\Modul 9 Quiz\Modul 9 Quiz\obj\Debug\Modul_9_Quiz.Form5.resources
+C:\Users\ahkgeera\Pictures\VB Punya Susy\Modul 9 Quiz\Modul 9 Quiz\obj\Debug\Modul_9_Quiz.Form7.resources
+I:\VB Punya Susy\Modul 9 Quiz\Modul 9 Quiz\bin\Debug\Modul 9 Quiz.exe.config
+I:\VB Punya Susy\Modul 9 Quiz\Modul 9 Quiz\obj\Debug\Modul 9 Quiz.exe
+I:\VB Punya Susy\Modul 9 Quiz\Modul 9 Quiz\obj\Debug\Modul 9 Quiz.xml
+I:\VB Punya Susy\Modul 9 Quiz\Modul 9 Quiz\obj\Debug\Modul 9 Quiz.pdb
+F:\VB Punya Susy\Modul 9 Quiz\Modul 9 Quiz\bin\Debug\Modul 9 Quiz.exe.config
+F:\VB Punya Susy\Modul 9 Quiz\Modul 9 Quiz\obj\Debug\Modul 9 Quiz.exe
+F:\VB Punya Susy\Modul 9 Quiz\Modul 9 Quiz\obj\Debug\Modul 9 Quiz.xml
+F:\VB Punya Susy\Modul 9 Quiz\Modul 9 Quiz\obj\Debug\Modul 9 Quiz.pdb
+C:\Users\e.marliana7438\Documents\UNSADA\Modul 9 Quiz\Modul 9 Quiz\bin\Debug\Modul 9 Quiz.exe.config
+C:\Users\e.marliana7438\Documents\UNSADA\Modul 9 Quiz\Modul 9 Quiz\obj\Debug\Modul 9 Quiz.exe
+C:\Users\e.marliana7438\Documents\UNSADA\Modul 9 Quiz\Modul 9 Quiz\obj\Debug\Modul 9 Quiz.xml
+C:\Users\e.marliana7438\Documents\UNSADA\Modul 9 Quiz\Modul 9 Quiz\obj\Debug\Modul 9 Quiz.pdb
+C:\Users\e.marliana7438\Documents\UNSADA\Modul 9 Quiz\Modul 9 Quiz\bin\Debug\Modul 9 Quiz.exe
+C:\Users\e.marliana7438\Documents\UNSADA\Modul 9 Quiz\Modul 9 Quiz\bin\Debug\Modul 9 Quiz.pdb
+C:\Users\e.marliana7438\Documents\UNSADA\Modul 9 Quiz\Modul 9 Quiz\bin\Debug\Modul 9 Quiz.xml
+C:\Users\e.marliana7438\Documents\UNSADA\Modul 9 Quiz\Modul 9 Quiz\obj\Debug\Modul 9 Quiz.vbprojResolveAssemblyReference.cache
+C:\Users\e.marliana7438\Documents\UNSADA\Modul 9 Quiz\Modul 9 Quiz\obj\Debug\Modul_9_Quiz.datagridview.resources
+C:\Users\e.marliana7438\Documents\UNSADA\Modul 9 Quiz\Modul 9 Quiz\obj\Debug\Modul_9_Quiz.Form8.resources
+C:\Users\e.marliana7438\Documents\UNSADA\Modul 9 Quiz\Modul 9 Quiz\obj\Debug\Modul_9_Quiz.Form7.resources
+C:\Users\e.marliana7438\Documents\UNSADA\Modul 9 Quiz\Modul 9 Quiz\obj\Debug\Modul_9_Quiz.Form10.resources
+C:\Users\e.marliana7438\Documents\UNSADA\Modul 9 Quiz\Modul 9 Quiz\obj\Debug\Modul_9_Quiz.Form3.resources
+C:\Users\e.marliana7438\Documents\UNSADA\Modul 9 Quiz\Modul 9 Quiz\obj\Debug\Modul_9_Quiz.Form4.resources
+C:\Users\e.marliana7438\Documents\UNSADA\Modul 9 Quiz\Modul 9 Quiz\obj\Debug\Modul_9_Quiz.Form5.resources
+C:\Users\e.marliana7438\Documents\UNSADA\Modul 9 Quiz\Modul 9 Quiz\obj\Debug\Modul_9_Quiz.Form2.resources
+C:\Users\e.marliana7438\Documents\UNSADA\Modul 9 Quiz\Modul 9 Quiz\obj\Debug\Modul_9_Quiz.Form9.resources
+C:\Users\e.marliana7438\Documents\UNSADA\Modul 9 Quiz\Modul 9 Quiz\obj\Debug\Modul_9_Quiz.Resources.resources
+C:\Users\e.marliana7438\Documents\UNSADA\Modul 9 Quiz\Modul 9 Quiz\obj\Debug\Modul_9_Quiz.Tugas_3.resources
+C:\Users\e.marliana7438\Documents\UNSADA\Modul 9 Quiz\Modul 9 Quiz\obj\Debug\Modul 9 Quiz.vbproj.GenerateResource.Cache
